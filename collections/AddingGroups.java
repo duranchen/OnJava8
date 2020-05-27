@@ -13,6 +13,6 @@ public class AddingGroups {
 
         List<Integer> list = Arrays.asList(16,17,18,19,20);
         list.set(1,99);
-       // list.add(21);
+        list.add(21);
     }
 }
